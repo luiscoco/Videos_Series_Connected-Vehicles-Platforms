@@ -1,7 +1,5 @@
 # Videos Series Connected-Vehicles-Platforms
 
-1. Tesla
-
 TeslaAPI: https://github.com/luiscoco/TeslaAPI
 
 Tesla_API_LCE_v1: https://github.com/luiscoco/Tesla_API_LCE_v1
